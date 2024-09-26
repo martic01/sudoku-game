@@ -319,9 +319,9 @@ window.onload = () => {
     num1to9Checker();
 
     $(".start").click(function () {
-        $(".endbtn").show()
-        $(".start").hide()
-        $(".result").slideUp()
+        $(".endbtn").show();
+        $(".start").hide();
+        $(".result").slideUp();
         generatePuzzle(numClues);
         disabled()
     });
