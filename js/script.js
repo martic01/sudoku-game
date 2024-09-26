@@ -264,7 +264,7 @@ let disabled = () => {
         if (disable) {
             button.setAttribute('disabled', true);
         } else {
-            button.removeAttribute('disabled')
+            button.removeAttribute('disabled');
         }
     });
     disable = !disable;
