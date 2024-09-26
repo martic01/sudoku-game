@@ -271,7 +271,7 @@ let disabled = () => {
 }
 let userAnswer = () => {
     let inputs = document.querySelectorAll('input');
-    let userAnswers = [];
+    let userAnswers = []
     let isCorrect = true;
 
     inputs.forEach((input, index) => {
