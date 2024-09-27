@@ -95,15 +95,34 @@ cd sudoku-game
 
 
 ```
-### Open the application
+### Open the code part of the application
 
 ```bash
-# Open file
+# Open file in
 
-Open index.html in your web browser to use the application.
+* In your code editor.
+OR
+* On your to directory type [code .]
 ```
+### Prepare Application for Launching
 
+```bash
+# To RUN
 
+In Your Terminal or GIT Bash Type.
+1. npm install
+2. npm run build
+ 
+```
+### To Launch Project
+
+```bash
+# To RUN
+
+In Your Terminal or GIT Bash Type.
+* npm run start
+ 
+```
 ## Known Bugs
 
 * not  solving solution correctly
